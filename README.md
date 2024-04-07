@@ -12,7 +12,7 @@ Sunroof is a fork of [Vesktop](https://github.com/Vencord/Vesktop).
 - Suncord preinstalled
 - Much more lightweight and faster than the official Discord app
 - Linux Screenshare with sound & wayland
-- Custom Splash Screens
+- Custom Splash Screens from [this PR](https://github.com/Vencord/Vesktop/pull/355)
 
 **Not yet supported**:
 - Global Keybinds
