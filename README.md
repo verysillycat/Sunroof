@@ -22,7 +22,7 @@ You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, ch
 
 ## Installing
 
-Find the required installer you need [here](https://github.com/verticalsync/Sunroof/releases/).
+Find the required installer you need [here](https://github.com/verticalsync/Sunroof/releases).
   
 ## Building from Source
 Packaging will create builds in the dist/ folder
