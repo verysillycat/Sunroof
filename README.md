@@ -8,13 +8,6 @@
 
 Sunroof is a fork of [Vesktop](https://github.com/Vencord/Vesktop).
 
-You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.
-
-## Installing
-
-Find the required installer you need [here](https://github.com/verticalsync/Sunroof/releases/tag/latest).
-
-
 **Main features**:
 - Suncord preinstalled
 - Much more lightweight and faster than the official Discord app
@@ -23,6 +16,13 @@ Find the required installer you need [here](https://github.com/verticalsync/Sunr
 
 **Not yet supported**:
 - Global Keybinds
+  
+
+You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.
+
+## Installing
+
+Find the required installer you need [here](https://github.com/verticalsync/Sunroof/releases/).
   
 ## Building from Source
 Packaging will create builds in the dist/ folder
