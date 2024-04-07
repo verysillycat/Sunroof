@@ -44,5 +44,5 @@ pnpm package --linux pacman
 # Or package to a directory only
 pnpm package:dir
 ```
-> [!IMPORTANT]  
-> test.
+> [!Windows contribution]
+> You will get test errors about venmic, you can ignore these as it's a linux only module.
