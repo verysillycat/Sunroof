@@ -1,4 +1,4 @@
-![logo](./src/assets/icon.png)
+![logo](https://r2.e-z.host/9e3dd702-42ab-4d6b-a8a0-b1a4ab53af33/7z2ng1zr.png)
 
 # Sunroof
 
