@@ -3,7 +3,7 @@
 # Sunroof
 
 [![Sunroof](https://img.shields.io/badge/Suncord-orange?style=flat)](https://github.com/verticalsync/Suncord)
-[![Tests](https://github.com/verticalsync/Sunroof/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/verticalsync/Suncord/actions/workflows/test.yml)
+[![Tests](https://github.com/verticalsync/Sunroof/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/verticalsync/Sunroof/actions/workflows/test.yml)
 [![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/VasF3Ma4Ab)
 
 Sunroof is a fork of [Vesktop](https://github.com/Vencord/Vesktop).
